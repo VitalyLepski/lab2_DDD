@@ -1,0 +1,14 @@
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\bin\Debug\net6.0\lab2_DDD.exe
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\bin\Debug\net6.0\lab2_DDD.deps.json
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\bin\Debug\net6.0\lab2_DDD.runtimeconfig.json
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\bin\Debug\net6.0\lab2_DDD.dll
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\bin\Debug\net6.0\lab2_DDD.pdb
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\obj\Debug\net6.0\lab2_DDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\obj\Debug\net6.0\lab2_DDD.AssemblyInfoInputs.cache
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\obj\Debug\net6.0\lab2_DDD.AssemblyInfo.cs
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\obj\Debug\net6.0\lab2_DDD.csproj.CoreCompileInputs.cache
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\obj\Debug\net6.0\lab2_DDD.dll
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\obj\Debug\net6.0\refint\lab2_DDD.dll
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\obj\Debug\net6.0\lab2_DDD.pdb
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\obj\Debug\net6.0\lab2_DDD.genruntimeconfig.cache
+C:\Users\lv13k\source\repos\lab2_DDD\lab2_DDD\obj\Debug\net6.0\ref\lab2_DDD.dll
